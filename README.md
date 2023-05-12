@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](https://github.com/ghaith-aldawamneh/portfolio_react_master/port.png)
+![Portfolio](/port.png)
 
 ## Built With
 
